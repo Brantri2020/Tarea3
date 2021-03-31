@@ -1,0 +1,26 @@
+{
+  "name": "guia-hoteles",
+  "version": "1.0.0",
+  "description": "Nuesto primer proyecto Nodejs",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://brantri@bitbucket.org/brantri/guia-hoteles.git"
+  },
+  "author": "Brandon Toapanta",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/brantri/guia-hoteles#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.6.0",
+    "open-iconic": "^1.1.1",
+    "popper.js": "^1.16.1"
+  }
+}

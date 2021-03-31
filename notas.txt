@@ -1,0 +1,13 @@
+descargar nodejs 
+
+crear servidor
+Levantar servidor npm run dev
+
+Hacer commit:
+git add .
+git commit -m "nombre del commit"
+git push
+git log
+
+iNStalar bootstrap, jquery y popper
+
